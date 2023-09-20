@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.white {
+    color:white;
+}
+
+h1 {
+
+    font-size:50px;
+
+}
+
+#hint {
+    color:yellow;
+    margin-bottom: 40px;
+}
+
+.design {
+    background-color: wheat;
+}
